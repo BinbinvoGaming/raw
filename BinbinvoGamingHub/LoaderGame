@@ -5,7 +5,7 @@ end
 end 
 
 local tuoidz = "Sunflower Field"
-local DarkCyberMainGUI = Instance.new("ScreenGui")
+local BinbinvoGamingMainGUI = Instance.new("ScreenGui")
 local MiniPage = Instance.new("Frame")
 local Destroy = Instance.new("TextButton")
 local GameText = Instance.new("TextLabel")
@@ -135,11 +135,11 @@ local NameTitle = Instance.new("TextLabel")
 local Welcome = Instance.new("TextLabel")
 
 --Properties:
-DarkCyberMainGUI.Name = "[DarkCyber]MainGUI"
+DarkCyberMainGUI.Name = "[BinbinvoGaming]MainGUI"
 DarkCyberMainGUI.Parent = game.CoreGui
 
 MiniPage.Name = "MiniPage"
-MiniPage.Parent = DarkCyberMainGUI
+MiniPage.Parent = BinbinvoGamingMainGUI
 MiniPage.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
 MiniPage.BorderSizePixel = 0
 MiniPage.Position = UDim2.new(0.361979187, 0, -0.7, 0)
@@ -209,7 +209,7 @@ CreditText.BackgroundTransparency = 1
 CreditText.Position = UDim2.new(0.188195452, 0, 0.0601093657, 0)
 CreditText.Size = UDim2.new(0.809829473, 0, 0.382513672, 0)
 CreditText.Font = Enum.Font.GothamBold
-CreditText.Text = "Gui Create : DarkCyber"
+CreditText.Text = "Gui Create : BinbinvoGaming"
 CreditText.TextColor3 = Color3.new(1, 1, 1)
 CreditText.TextSize = 20
 
@@ -220,7 +220,7 @@ JoinText.BackgroundTransparency = 1
 JoinText.Position = UDim2.new(0, 0, 0.453551859, 0)
 JoinText.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 JoinText.Font = Enum.Font.GothamBold
-JoinText.Text = "Join Discord for more Update"
+JoinText.Text = "Join Discord"
 JoinText.TextColor3 = Color3.new(1, 1, 1)
 JoinText.TextSize = 17
 
@@ -231,7 +231,7 @@ DiscordlinkTest.BackgroundTransparency = 1
 DiscordlinkTest.Position = UDim2.new(0, 0, 0.601092875, 0)
 DiscordlinkTest.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 DiscordlinkTest.Font = Enum.Font.GothamBold
-DiscordlinkTest.Text = "Link: https://discord.gg/yXNjfMa"
+DiscordlinkTest.Text = "Link: https://discord.gg/A22DP79yCV"
 DiscordlinkTest.TextColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.TextSize = 17
 
